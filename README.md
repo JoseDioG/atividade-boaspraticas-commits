@@ -1,1 +1,1 @@
-# atividade-boaspraticas-commits
+# Atividade Boas Práticas Commits
